@@ -1,4 +1,4 @@
 # coding-demo
-<br>
 This is my first git repository.
+<br>
 Author - Karan Hoke
